@@ -12,7 +12,7 @@ This workshop is cohosted by the Social Science Research Commons and the Karl F.
 
 
 ##Workshop Materials
-[Presentation Slides](http://ssrc.indiana.edu/seminars/wimdocs/2016-02-05_wim_brodnax_python_slides.pdf)  
+[Presentation Slides](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/20635/2016-02-05_wim_brodnax_python_slides.pdf?sequence=11&isAllowed=y)  
 Python Installation: [Python 3](https://www.python.org/downloads/)  
 Python Library Installation: [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#) and [Requests](http://docs.python-requests.org/en/master/)    
 Python Web-based IDE: [PythonAnywhere](http://www.pythonanywhere.com)

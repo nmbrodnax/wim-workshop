@@ -4,16 +4,16 @@
 Web scraping is a method of extracting and restructuring information from web pages.  This workshop will introduce basic techniques for web scraping using popular open-source tools.  The first part of the workshop will provide an overview of basic HTML elements and Python tools for developing a custom web scraper.  The second part will enable participants to practice accessing websites, parsing information, and storing data in a CSV file.  This workshop is intended for social scientists who are new to web scraping.  No programming experience is required, but basic familiarity with HTML and Python is helpful.
 
 ##Workshop Details
-Friday, February 5, 2016, 2-4pm\s\s
-Social Science Research Commons Grand Hall\s\s
+Friday, February 5, 2016, 2-4pm\
+Social Science Research Commons Grand Hall\
 Woodburn Hall 200
 
 This workshop is cohosted by the Social Science Research Commons and the Karl F. Schuessler Institute for Social Research as part of their [Workshop in Methods](ssrc.indiana.edu/seminars/wim.shtml) series.
 
 
 ##Workshop Materials
-[Presentation Slides](http://ssrc.indiana.edu/seminars/wimdocs/2016-02-05_wim_brodnax_python_slides.pdf)\s\s
-Python Installation: [Python 3](https://www.python.org/downloads/)\s\s
+[Presentation Slides](http://ssrc.indiana.edu/seminars/wimdocs/2016-02-05_wim_brodnax_python_slides.pdf)\
+Python Installation: [Python 3](https://www.python.org/downloads/)\
 Python Web-based IDE: [PythonAnywhere](www.pythonanywhere.com)
 
 

@@ -8,7 +8,7 @@ Friday, February 5, 2016, 2-4pm
 Social Science Research Commons Grand Hall  
 Woodburn Hall 200
 
-This workshop is cohosted by the Social Science Research Commons and the Karl F. Schuessler Institute for Social Research as part of their [Workshop in Methods](ssrc.indiana.edu/seminars/wim.shtml) series.
+This workshop is cohosted by the Social Science Research Commons and the Karl F. Schuessler Institute for Social Research as part of their [Workshop in Methods](http://ssrc.indiana.edu/seminars/wim.shtml) series.
 
 
 ##Workshop Materials

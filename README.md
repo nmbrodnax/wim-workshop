@@ -16,7 +16,7 @@ This workshop is cohosted by the Social Science Research Commons and the Karl F.
 
 Python Installation: [Python 3](https://www.python.org/downloads/)
 
-Python Web-based IDE: [PythonAnywhere](www.pythonanywhere.com]
+Python Web-based IDE: [PythonAnywhere](www.pythonanywhere.com)
 
 
 ##Presenter Info

@@ -1,6 +1,6 @@
 # Introduction to Web Scraping with Python
 # NaLette Brodnax nbrodnax@indiana.edu
-# February 5, 2016
+# February 26, 2016
 
 # ACCESS #
 # Import all the libraries that you need

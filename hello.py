@@ -1,3 +1,7 @@
+# Introduction to Web Scraping with Python
+# NaLette Brodnax nbrodnax@indiana.edu
+# February 26, 2016
+
 print("Hello, world.")
 
 mystring = 'happy'

@@ -1,6 +1,6 @@
 # Introduction to Web Scraping with Python
 # NaLette Brodnax nbrodnax@indiana.edu
-# February 26, 2016
+# September 30, 2016
 
 print("Hello, world.")
 

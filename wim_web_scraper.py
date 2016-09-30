@@ -1,6 +1,6 @@
 # Introduction to Web Scraping with Python
 # NaLette Brodnax nbrodnax@indiana.edu
-# February 26, 2016
+# September 30, 2016
 
 # ACCESS #
 # Import all the libraries that you need
@@ -8,7 +8,7 @@ import requests
 import bs4
 import csv
 
-webpage = 'http://www.amstat.org/publications/jse/jse_data_archive.htm'
+webpage = 'http://ww2.amstat.org/publications/jse/jse_data_archive.htm'
 server_response = requests.get(webpage)
 
 

@@ -1,7 +1,8 @@
 #Introduction to Web Scraping with Python
 
 ##Abstract
-Web scraping is a method of extracting and restructuring information from web pages.  This workshop will introduce basic techniques for web scraping using popular open-source tools.  The first part of the workshop will provide an overview of basic HTML elements and Python tools for developing a custom web scraper.  The second part will enable participants to practice accessing websites, parsing information, and storing data in a CSV file.  This workshop is intended for social scientists who are new to web scraping.  No programming experience is required, but basic familiarity with HTML and Python is helpful.
+Web scraping is a method of extracting and restructuring information from web pages. This workshop will introduce basic techniques for web scraping using the popular Python libraries BeautifulSoup and Requests. Participants will practice accessing websites, parsing information, and storing data in a CSV file. This workshop is intended for social scientists who are new to web scraping but have some familiarity with Python or have attended the Intro to Python workshop.
+
 
 ##Workshop Details
 September 16, 2016, 2-4pm  
